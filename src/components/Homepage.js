@@ -3,7 +3,7 @@ import React from "react";
 export default function Homepage() {
   return (
     <div class="flex flex-col items-center gap-5 py-16 text-center ">
-      <div className="text-5xl font-black">Uwajibikaji Pamoja</div>
+      <div className="text-5xl text-black">Uwajibikaji Pamoja</div>
       <div className="text-2xl">
         Integrated Complaints Referral Mechanism At County Level
       </div>
