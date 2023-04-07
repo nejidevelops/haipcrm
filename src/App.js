@@ -13,8 +13,8 @@ function App() {
       <Homepage />
       <Features />
       <Initiative />
-      <ContactInfo />
       <Integrations />
+      <ContactInfo />
     </>
   );
 }
