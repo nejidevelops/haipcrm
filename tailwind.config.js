@@ -9,6 +9,9 @@ module.exports = {
         primaryColor: '#667085',
         buttonColor: '#16B1B5',
       },
+      fontFamily: {
+        'inter': ['Inter', 'sans-serif']
+      },
     },
   },
   plugins: [],
