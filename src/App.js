@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Homepage from "./components/Homepage";
 import Initiative from "./components/Initiative";
 import Features from "./components/Features";
+import Sponsors from "./components/Sponsors";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Homepage />
       <Features />
       <Initiative />
+      <Sponsors />
     </>
   );
 }
