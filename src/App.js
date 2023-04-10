@@ -5,6 +5,7 @@ import Initiative from "./components/Initiative";
 import ContactInfo from "./components/ContactInfo";
 import Features from "./components/Features";
 import Integrations from "./components/Integrations";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Initiative />
       <Integrations />
       <ContactInfo />
+      <Footer />
     </>
   );
 }
