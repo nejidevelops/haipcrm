@@ -17,7 +17,7 @@ export default function Sponsors() {
 
   return (
     <div class="flex flex-col items-center gap-4 py-16 text-center bg-[#F9FAFB]">
-      <div className="text-2xl text-black">Join 40+ companies already growing</div>
+      <div className="text-xl py-5">Join 40+ companies already growing</div>
       <div className="grid grid-cols-2 gap-8 md:grid-cols-3 lg:grid-cols-4 w-4/5">
         <img src={one} alt={one}  />
         <img src={two} alt={two} />
