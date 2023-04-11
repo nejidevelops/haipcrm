@@ -12,9 +12,9 @@ import ten from "../assets/sponsors/Frame 5.png"
 import eleven from "../assets/sponsors/Frame 5 (1).png"
 import twelve from "../assets/sponsors/Frame 5 (2).png"
 
-export default function Sponsors() {
  
 
+export default function Sponsors() {
   return (
     <div class="flex flex-col items-center gap-4 py-16 text-center bg-[#F9FAFB]">
       <div className="text-xl py-5">Join 40+ companies already growing</div>
