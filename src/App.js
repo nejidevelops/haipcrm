@@ -6,6 +6,8 @@ import ContactInfo from "./components/ContactInfo";
 import Features from "./components/Features";
 import Sponsors from "./components/Sponsors";
 import Integrations from "./components/Integrations";
+import Footer from "./components/Footer";
+import ContactUs from "./components/ContactUs";
 
 
 function App() {
@@ -17,7 +19,9 @@ function App() {
       <Initiative />
       <Sponsors />
       <Integrations />
+      <ContactUs />
       <ContactInfo />
+      <Footer />
     </>
   );
 }
