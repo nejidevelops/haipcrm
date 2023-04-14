@@ -2,7 +2,7 @@
 Welcome to Haip CRM, an Integrated Complaints Referral Mechanism designed to facilitate quality service and accountability from government and non-governmental service providers at the county level in Kenya. The platform enables users to submit complaints via SMS, which are then forwarded to the relevant aid or service provider for prompt response and feedback.
 
 ## Contributors
-Haip CRM was developed by a team of three contributors, including a Kelvin Njoro (UI/UX), Newton Ombese (frontend developer), and Kelvin (frontend developer).
+Haip CRM was developed by a team of three contributors, including a Kelvin Njoro (UI/UX), Newton Ombese (frontend developer), and Kelvin Nderitu(frontend developer).
 
 ## Technology Stack
 Haip CRM was developed using create-react-app, a popular open-source tool for creating React applications. The platform will be hosted on a server running Node.js and Express.js, and it will use a MySQL database to store user data, complaints, and other information.
