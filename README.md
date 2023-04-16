@@ -18,6 +18,7 @@ Haip CRM comes with several features to enable users to submit complaints and tr
 
 Live View
 You can view a live version of the Haip CRM app at https://haipcrm.vercel.app/.
+The update live version of the Haip CRM app is https://unrivaled-fox-07e047.netlify.app/
 
 ## Getting Started
 To get started with Haip CRM, clone the repository from GitHub and run the following command to install the required dependencies:
