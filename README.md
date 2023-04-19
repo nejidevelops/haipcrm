@@ -16,6 +16,9 @@ Haip CRM comes with several features to enable users to submit complaints and tr
 - Real-time reports and charts: Users can view real-time reports and charts to track complaint resolution status.
 - The platform also comes with a Strike feature that allows users to view the Uwajibikaji Pamoja Concept Paper and NDMA County Stakeholders Mapping.
 
+Figma Desing
+You can view on the good work and design done by Kelvin Njoro here https://www.figma.com/file/ecOYOL0YXoHuDEiMBeddJp/haipcrm?node-id=0%3A1&t=nhEKHC4p88mvHO5z-1
+
 Live View
 You can view a live version of the Haip CRM app at https://haipcrm.vercel.app/.
 The update live version of the Haip CRM app is https://melodious-naiad-a806af.netlify.app/
